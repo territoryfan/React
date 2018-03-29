@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c98df53-a398-4681-974c-8fde3f8653c9" name="Default" comment="">
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/threeD.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/Paging.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/vuex/mixin.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/self/settings/privacy.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/self.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find_icon-shake.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/me_more-my-album.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/me_more-my-bank-card.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/config/test.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/wechat/msg-item.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/header/header02.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/wechat/dialogue.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/config/prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/chat-info-qr.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/record-cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/webpack.base.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/vuex/mutations.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_add-friend-my-qr.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_add-friend-addgroup.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/book.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/settings/common/language.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/UserWithdrawal.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/wechat.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/webpack.prod.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/gif/details.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/wechat/dialogue-detail.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/common/wx-nav.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/threeD.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/me_more-setting.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/wx-header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/filters/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/test/unit/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/recording-signa-l008.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/wechat.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/test/unit/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/login-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/me_my-card-package-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/vuex/getters.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/static/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_add-friend-reda.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/gif/enter-dialogue.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/gif/msg-operate.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/settings/common/common.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/wx-nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find_icon-bottle.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/new-friends.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/vuex/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/PagingList.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/contact/tags.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/test/unit/specs/Hello.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/self/settings/security.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/search.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/self/my-qrcode.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/common/welcome.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/contact.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/common/profile.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/self.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/noaccept.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/vuex/official-account.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/koala-config.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_add-friend-scanqr.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/contact/new-friends.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/explore/moments.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find_icon-moregame.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/common/album.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/App.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/me_more-expression.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/album.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_add-friend-offical.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/dialogue.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/login-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/wx-header.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/self/settings/common.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/UserLiveRecord.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/lib/weui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_male.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/contact/add-friend.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/test/e2e/nightwatch.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/config/dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/wechat/wechat.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/gif/tab-switch.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/js/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find_icon-shopping.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/explore.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/recharge-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find-album-reflash-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/contact/group-list.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/test/e2e/custom-assertions/elementCount.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/gif/dialogue-operate.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/wx-nav.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/login-cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/recording-bkg.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/contact/official-accounts.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/search.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/App.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/self/settings.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/UserMenu.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/app-structure-ps.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/vue-loader.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/UserRecharge.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/common/wx-header.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/header/header01.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/lib/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/dev-server.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/webpack.test.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/recharge.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/dev-client.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/test/e2e/runner.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/UserInfo.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/contact/mobile-contacts.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/UserBankInfo.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/dialogue.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_add-friend-contacts.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/test/e2e/specs/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/self/self.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/Loading.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find_icon-circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/js/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/contact/contact.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/album.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/moments.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/wechat/dialogue-info.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_top-tag.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/new-friends.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/print-screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/settings.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/webpack.dev.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/IMG_3299.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/gif/my-qrcode.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/launchimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/gif/official.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find_icon-locationservice.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/gif/search-active.gif" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/me_more-my-favorites.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/List.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_top-friend-notify.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/contact/details.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/self/settings/notice.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/explore/explore.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/build/check-versions.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/vuex/contacts.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/UserContent.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/moments.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/common/search.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_female.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/common/threeDTouch.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_top-addgroup.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/app-structure.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/vuex/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/test/unit/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/find_icon-qrcode.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/contact.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/component/UserContentMain.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/language/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/profile.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/contact_top-offical.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/lib/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/sass/settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/components/settings/settings.vue" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-user-center-master/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/images/mobile-dev-guide.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/assets/css/explore.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Vue/vue案例/vue-WeChat-master/src/main.js" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ico</find>
+      <find>mapStateToProps</find>
+      <find>LocalStore</find>
+      <find>Link</find>
+      <find>hashHistory</find>
+      <find>ListCompoent</find>
+      <find>LoadMore</find>
+      <find>getSearchData</find>
+      <find>userinfo</find>
+      <find>userInfoActions</find>
+      <find>goUserPage</find>
+      <find>update</find>
+      <find>storeActions</find>
+      <find>c</find>
+      <find>con</find>
+      <find>conso</find>
+      <find>console</find>
+      <find>console.</find>
+      <find>console.lo</find>
+      <find>console.log</find>
+      <find>commentState</find>
+      <find>comment-text</find>
+      <find>commentText</find>
+      <find>readFileData</find>
+      <find>readdir</find>
+      <find>dataBase</find>
+      <find>mock</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/components/List/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/CurrentCity/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/CityList/index.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/City/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/SearchInput/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/SearchHeader/index.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/Search/subpage/List.jsx.js" />
+        <option value="$PROJECT_DIR$/app/containers/Home/subpage/List.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/Search/index.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/Search/subpage/List.jsx" />
+        <option value="$PROJECT_DIR$/app/components/List/Item/index.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/Detail/subpage/Info.jsx.js" />
+        <option value="$PROJECT_DIR$/app/containers/Detail/subpage/Info.jsx" />
+        <option value="$PROJECT_DIR$/app/components/Star/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/DetailInfo/index.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/Detail/subpage/style.less.css" />
+        <option value="$PROJECT_DIR$/app/containers/Detail/subpage/style.less" />
+        <option value="$PROJECT_DIR$/app/containers/Detail/subpage/Commont.jsx" />
+        <option value="$PROJECT_DIR$/app/components/HomeHeader/index.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/Login/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/Login/index.jsx" />
+        <option value="$PROJECT_DIR$/../index.html" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/mock/home/ad.js" />
+        <option value="$PROJECT_DIR$/mock/server.js" />
+        <option value="$PROJECT_DIR$/app/containers/Detail/index.jsx" />
+        <option value="$PROJECT_DIR$/app/router/routeMap.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/Detail/subpage/Buy.jsx" />
+        <option value="$PROJECT_DIR$/app/components/BuyAndStore/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/Header/index.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/User/subpage/OrderList.jsx.js" />
+        <option value="$PROJECT_DIR$/app/containers/404.jsx" />
+        <option value="$PROJECT_DIR$/app/containers/User/subpage/style.less.css" />
+        <option value="$PROJECT_DIR$/app/containers/User/subpage/style.less" />
+        <option value="$PROJECT_DIR$/app/containers/User/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/OrderList/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/OrderList/Item/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/OrderList/Item/style.less" />
+        <option value="$PROJECT_DIR$/app/containers/User/subpage/OrderList.jsx" />
+        <option value="$PROJECT_DIR$/server/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server/routes/data.js" />
+        <option value="$PROJECT_DIR$/server/public/home/ad.js" />
+        <option value="$PROJECT_DIR$/server/public/home/list.js" />
+        <option value="$PROJECT_DIR$/server/public/search/list.js" />
+        <option value="$PROJECT_DIR$/server/public/detail/info.js" />
+        <option value="$PROJECT_DIR$/server/public/orderlist/orderList.js" />
+        <option value="$PROJECT_DIR$/server/app.js" />
+        <option value="$PROJECT_DIR$/app/components/Category/style.less" />
+        <option value="$PROJECT_DIR$/app/components/Category/index.jsx" />
+        <option value="$PROJECT_DIR$/app/components/CommentList/index.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/server/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.splitter.proportion" value="0.26923078" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/containers/Detail/subpage" />
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$/app/containers/Home/subpage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c98df53-a398-4681-974c-8fde3f8653c9" name="Default" comment="" />
+      <created>1500804538261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500804538261</updated>
+      <workItem from="1500860451274" duration="226000" />
+      <workItem from="1500860681438" duration="32000" />
+      <workItem from="1500860716436" duration="42768000" />
+      <workItem from="1501033765586" duration="74089000" />
+      <workItem from="1501314523949" duration="2207000" />
+      <workItem from="1501318412615" duration="549000" />
+      <workItem from="1501324230337" duration="8785000" />
+      <workItem from="1501465256970" duration="1773000" />
+      <workItem from="1501489552900" duration="10052000" />
+      <workItem from="1501551982445" duration="23969000" />
+      <workItem from="1501747532032" duration="2253000" />
+      <workItem from="1501989179074" duration="1101000" />
+      <workItem from="1502076664065" duration="1005000" />
+      <workItem from="1502083926912" duration="11000" />
+      <workItem from="1502083956790" duration="8335000" />
+      <workItem from="1502155623450" duration="35896000" />
+      <workItem from="1502334842992" duration="211000" />
+      <workItem from="1502338401835" duration="2000" />
+      <workItem from="1502688954656" duration="4223000" />
+      <workItem from="1502795520006" duration="1652000" />
+      <workItem from="1502847007093" duration="592000" />
+      <workItem from="1502888853131" duration="83000" />
+      <workItem from="1502938414575" duration="792000" />
+      <workItem from="1503043123614" duration="384000" />
+      <workItem from="1504064324067" duration="2678000" />
+      <workItem from="1504837814522" duration="505000" />
+      <workItem from="1504855284161" duration="6000" />
+      <workItem from="1504863716319" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224253000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16138126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19168429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/containers/User/subpage/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock/orderlist/orderList.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/OrderList/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/User/subpage/OrderList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/OrderList/Item/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/fetch/user/orderlist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock/home/ad.js" />
+    <entry file="file://$PROJECT_DIR$/mock/server.js" />
+    <entry file="file://$PROJECT_DIR$/webpack.production.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/fetch/post.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/fetch/get.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../node.js/koa/Koa_demo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/database/database.json" />
+    <entry file="file://$PROJECT_DIR$/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/home/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/detail/comment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/search/list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="65" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/detail/info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/home/ad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="68" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Category/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="115" column="75" lean-forward="false" selection-start-line="115" selection-start-column="63" selection-end-line="115" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/public/orderlist/orderList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="66" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/404.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/List/Item/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/HomeHeader/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/HomeAd/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Header/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/DetailInfo/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/List/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/LoadMore/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/OrderList/Item/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/OrderList/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Login/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/CurrentCity/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/CommentList/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/CommentList/Item/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/fetch/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/fetch/detail/detai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Detail/subpage/Commont.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="63" column="13" lean-forward="false" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Detail/subpage/Buy.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/containers/Detail/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/CityList/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="47" column="81" lean-forward="false" selection-start-line="47" selection-start-column="81" selection-end-line="47" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/BuyAndStore/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.tmpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Category/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
